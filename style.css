@@ -1,0 +1,22 @@
+body {
+    margin: 0em;
+}
+
+.img-con{
+    background-image: url("imagenes/LOGO.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 90px;
+    width: 90px;
+    color:white;
+}
+.cover {
+ height:400px;
+ background-image:url("imagenes/POR-1.jpg") ;
+ color: white;
+ background-size: cover;
+ background-position: center;
+ background-color: rgba(15, 68, 64, 0);
+ background-blend-mode: darken;
+}
